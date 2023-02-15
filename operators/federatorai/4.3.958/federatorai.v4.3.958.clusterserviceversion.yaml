@@ -18,6 +18,7 @@ metadata:
     createdAt: 2020-09-18T13:00:00Z
     description: Federator.ai Operator provides easy configuration and management of AI-based Kubernetes resource orchestrator
     support: ProphetStor Data Services, Inc.
+    artifacthub.io/category: skip-prediction
     alm-examples: |-
       [
         {
