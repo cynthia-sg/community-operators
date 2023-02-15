@@ -3,3 +3,5 @@ channels:
   name: stable
 defaultChannel: stable
 packageName: federatorai
+annotations:
+  artifacthub.io/category: database
